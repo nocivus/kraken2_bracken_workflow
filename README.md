@@ -1,11 +1,13 @@
 # kraken2_bracken_workflow
-First rudimentary shell-script for metagenome analysis using kraken2 and bracken.   
+Rudimentary shell-script for metagenome analysis using kraken2 and bracken.   
 
 This script takes multiple paired readings as input and uses [Kraken2](https://github.com/DerrickWood/kraken2), [Bracken](https://github.com/jenniferlu717/Bracken) and [KrakenTools](https://github.com/jenniferlu717/KrakenTools) to generate Bracken report-files and Krona plots for the submitted samples.
 
 The script follows a reduced workflow of the one presented in [Lu J, Rincon N, Wood DE, et al. Metagenome analysis using the Kraken software suite. Nat Protoc. 2022;17(12):2815-2839. doi:10.1038/s41596-022-00738-y](https://pmc.ncbi.nlm.nih.gov/articles/PMC9725748/)
 
 The samples used were published in [Worp, N., Nieuwenhuijse, D.F., Izquierdo-Lara, R.W. et al. Unveiling the global urban virome through wastewater metagenomics. Nat Commun 16, 10707 (2025).](https://doi.org/10.1038/s41467-025-65208-x)
+
+Pavian example reports were generated for 21 samples from the above study taken in Ecuador.
 
 **Tested on Ubuntu 25.04 (arm64)**
 
@@ -44,5 +46,21 @@ Example: .../src/database/k2_viral_20260226
 Sample readings from the Global Urban Virome study are available at the [European Nucleotide Archive.](https://www.ebi.ac.uk/ena/browser/view/PRJEB87273)    
 Both paired reads of a sample (..._1.fastq.gz & ..._2.fastq.gz) must be stored inside ./reads/
 
+## Sample Reports
+
+### Krona plot
+
+<img width="1394" height="896" alt="grafik" src="https://github.com/user-attachments/assets/c3c53832-32d0-45e4-b8ef-77a42d8608b6" />
+
+ERR14789028.krona.html
+
+### Pavian plots & report
+
+Pavian plots and reports were created from the Bracken .breport files using the [Pavian shiny app.](https://fbreitwieser.shinyapps.io/pavian/)
+
+
+<img width="840" height="594" alt="grafik" src="https://github.com/user-attachments/assets/6823d8a6-d63f-4b08-b43d-5560379ef71c" />
+
+sample_set-report_pavian.html
 
 
