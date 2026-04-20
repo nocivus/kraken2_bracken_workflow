@@ -1,33 +1,33 @@
 #!/bin/bash
 
-# Name of the directory containing the kraken classification database
+# Name of the directory containing the kraken classification database & the Bracken k-mers databases
 k2_dataBase="k2_viral_20260226"
 
 db="./database/$k2_dataBase"
 read_dir="./reads"
 
-# mapfile -t samples_1 < <(find "$read_dir" -name "*_1.fastq.gz")
-# mapfile -t samples_2 < <(find "$read_dir" -name "*_2.fastq.gz")
-
-# Dateien in samples_1 sammeln
+# collect first file of each paired reading in ./reads
 while IFS= read -r line; do
     samples_1+=("$line")
 done < <(find "$read_dir" -name "*_1.fastq.gz")
 
-# Dateien in samples_2 sammeln
+# collect second file of each paired reading in ./reads
 while IFS= read -r line; do
     samples_2+=("$line")
 done < <(find "$read_dir" -name "*_2.fastq.gz")
 
+# check if both lists have same number of files
 if [ ${#samples_1[@]} -ne ${#samples_2[@]} ]; then
     echo "Error: File missing in paired readings?"
     exit 1
 fi
 
+# make directories for generated files
 mkdir output/classified/
 mkdir output/bracken/
 mkdir output/krona/
 
+# commands for every paired reading in ./reads directory
 count=${#samples_1[@]}
 for (( i=0; i<$count; i++ ));
 do
