@@ -46,6 +46,12 @@ Example: .../src/database/k2_viral_20260226
 Sample readings from the Global Urban Virome study are available at the [European Nucleotide Archive.](https://www.ebi.ac.uk/ena/browser/view/PRJEB87273)    
 Both paired reads of a sample (..._1.fastq.gz & ..._2.fastq.gz) must be stored inside ./reads/
 
+## Run
+
+**analyse_script.sh** has to be located in the .../\{src\} directory for the script to function.
+
+Then `./analyse_script.sh`
+
 ## Sample Reports
 
 ### Krona plot
