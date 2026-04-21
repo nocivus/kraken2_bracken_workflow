@@ -1,0 +1,274 @@
+100.00	46657	0	R	1	root
+100.00	46657	0	R1	10239	  Viruses
+65.19	30414	0	R2	2559587	    Riboviria
+65.00	30326	0	K	2732396	      Orthornavirae
+60.91	28421	0	P	2732408	        Pisuviricota
+34.72	16200	0	C	2732507	          Stelpaviricetes
+34.72	16200	0	O	2732551	            Stellavirales
+34.72	16200	0	F	39733	              Astroviridae
+26.87	12535	0	G	249588	                Mamastrovirus
+16.71	7797	7797	S	3430629	                  Mamastrovirus hominis
+5.47	2551	0	G1	526119	                  unclassified Mamastrovirus
+1.14	533	533	S	1389204	                    Feline astrovirus 2
+1.12	524	524	S	1157338	                    Canine astrovirus
+1.08	504	504	S	1105379	                    Porcine astrovirus 4
+0.74	347	347	S	682382	                    HMO Astrovirus A
+0.68	318	318	S	1137931	                    Astrovirus wild boar/WBAstV-1/2011/HUN
+0.25	116	116	S	1105378	                    Porcine astrovirus 2
+0.15	70	70	S	1161132	                    Rabbit astrovirus TN/2208/2010
+0.12	55	55	S	1254425	                    Porcine astrovirus 3
+0.14	63	63	S	1027247	                    Bovine astrovirus B76-2/HK
+0.05	21	21	S	1662272	                    Dromedary astrovirus
+3.96	1848	1848	S	3430631	                  Mamastrovirus melbournense
+0.30	138	138	S	3430638	                  Mamastrovirus taphozoi
+0.22	101	101	S	3430626	                  Mamastrovirus felis
+0.09	42	42	S	3430641	                  Mamastrovirus virginiaense
+0.10	47	47	S	3430625	                  Mamastrovirus canis
+0.02	10	10	S	3430637	                  Mamastrovirus suis
+7.77	3623	0	F1	352926	                unclassified Astroviridae
+5.38	2508	2508	S	1868658	                  Human astrovirus
+0.92	429	429	S	1247114	                  Astrovirus MLB3
+0.80	372	372	S	1093928	                  Porcine astrovirus 5
+0.34	160	160	S	683174	                  Astrovirus VA3
+0.33	154	154	S	683172	                  Astrovirus MLB2
+0.09	41	0	G	249589	                Avastrovirus
+0.09	41	41	S	3426506	                  Avastrovirus intestini
+26.19	12221	0	C	2732506	          Pisoniviricetes
+25.98	12120	0	O	464095	            Picornavirales
+19.64	9163	0	F	12058	              Picornaviridae
+14.35	6694	0	F1	2946635	                Kodimesavirinae
+11.53	5378	0	G	688449	                  Salivirus
+10.68	4984	0	G1	1330992	                    unclassified Salivirus
+10.68	4984	4984	S	1547495	                      Salivirus FHB
+0.84	394	394	S	3432241	                    Salivirus aklasse
+1.76	820	0	G	194960	                  Kobuvirus
+0.77	358	0	G1	655314	                    unclassified Kobuvirus
+0.72	334	334	S	1836608	                      Canine kobuvirus
+0.05	24	24	S	1074213	                      Mouse kobuvirus M-5/USA/2010
+0.65	301	301	S	72149	                    Kobuvirus aichi
+0.24	113	113	S	194965	                    Kobuvirus bejaponia
+0.10	48	48	S	1298633	                    Kobuvirus cebes
+0.74	347	0	G	1511804	                  Rosavirus
+0.74	347	347	S	3432190	                    Rosavirus brorati
+0.28	129	0	G	1755587	                  Sicinivirus
+0.28	129	129	S	3432442	                    Sicinivirus ahiberni
+0.04	20	0	G	1330067	                  Dicipivirus
+0.04	20	20	S	3428295	                    Dicipivirus acadici
+2.65	1235	0	F1	2946627	                Caphthovirinae
+1.30	607	0	G	12103	                  Cardiovirus
+0.81	379	379	S	3427728	                    Cardiovirus ranori
+0.38	176	176	S	3427731	                    Cardiovirus saffoldi
+0.11	52	52	S	3427732	                    Cardiovirus theileri
+0.92	431	0	G	1431456	                  Hunnivirus
+0.92	431	431	S	3429868	                    Hunnivirus amagyari
+0.36	167	0	G	586418	                  Cosavirus
+0.36	167	167	S	3428094	                    Cosavirus asiani
+0.06	30	0	G	1511778	                  Mischivirus
+0.06	30	30	S	3430896	                    Mischivirus defoxi
+1.64	765	0	F1	2946630	                Ensavirinae
+1.52	709	0	G	12059	                  Enterovirus
+0.88	412	412	S	3428505	                    Enterovirus coxsackiepol
+0.28	129	129	S	3428506	                    Enterovirus deconjuncti
+0.12	58	58	S	3428500	                    Enterovirus alphacoxsackie
+0.11	50	50	S	3428502	                    Enterovirus betacoxsackie
+0.09	40	40	S	3428508	                    Enterovirus fitauri
+0.04	20	20	S	3428509	                    Enterovirus geswini
+0.08	35	0	G	2025077	                  Rabovirus
+0.08	35	35	S	3432090	                    Rabovirus aneyoci
+0.05	21	0	G	686982	                  Sapelovirus
+0.05	21	21	S	3432263	                    Sapelovirus anglia
+0.87	406	0	F1	2946633	                Heptrevirinae
+0.87	406	0	G	12091	                  Hepatovirus
+0.87	406	406	S	3407641	                    Hepatovirus ahepa
+0.14	63	0	F1	2946640	                Paavivirinae
+0.09	43	0	G	138954	                  Parechovirus
+0.09	43	43	S	3431395	                    Parechovirus ahumpari
+0.04	20	0	G	1511782	                  Pasivirus
+0.04	20	20	S	3431402	                    Pasivirus agallia
+6.11	2853	0	F	11974	              Caliciviridae
+4.88	2279	0	G	142786	                Norovirus
+4.88	2279	2279	S	3431196	                  Norovirus norwalkense
+1.20	560	0	G	95341	                Sapovirus
+1.20	560	560	S	3432266	                  Sapovirus sapporoense
+0.03	14	0	F1	179239	                unclassified Caliciviridae
+0.03	14	14	S	646294	                  St-Valerien swine virus
+0.19	89	0	F	232795	              Dicistroviridae
+0.19	89	0	G	144051	                Cripavirus
+0.19	89	89	S	3047369	                  Cripavirus mortiferum
+0.03	15	0	O1	675074	              unclassified Picornavirales
+0.03	15	0	G	2219049	                Husavirus
+0.03	15	0	G1	2628399	                  unclassified Husavirus
+0.03	15	15	S	1930509	                    Husavirus sp.
+0.19	88	0	O	76804	            Nidovirales
+0.19	88	0	O1	2499399	              Cornidovirineae
+0.19	88	0	F	11118	                Coronaviridae
+0.19	88	0	F1	2501931	                  Orthocoronavirinae
+0.19	88	0	G	694002	                    Betacoronavirus
+0.19	88	0	G1	2509511	                      Sarbecovirus
+0.19	88	88	S	3418604	                        Betacoronavirus pandemicum
+0.03	13	0	O	2732553	            Sobelivirales
+0.03	13	0	F	2169577	              Solemoviridae
+0.03	13	0	G	12137	                Sobemovirus
+0.03	13	13	S	3432504	                  Sobemovirus RGMOV
+4.05	1887	0	P	2732406	        Kitrinoviricota
+3.24	1510	0	C	2732461	          Alsuviricetes
+1.97	917	0	O	2732543	            Hepelivirales
+1.97	917	0	F	3079366	              Hepeviridae
+1.97	917	0	F1	2946639	                Orthohepevirinae
+1.97	917	0	G	2948883	                  Rocahepevirus
+1.97	917	917	S	1678145	                    Rocahepevirus ratti
+1.25	582	0	O	2732544	            Martellivirales
+1.25	582	0	F	675071	              Virgaviridae
+1.25	582	0	G	12234	                Tobamovirus
+0.40	185	185	S	3432892	                  Tobamovirus tomatotessellati
+0.36	170	170	S	3432865	                  Tobamovirus capsici
+0.32	150	150	S	3432891	                  Tobamovirus tabaci
+0.08	37	37	S	3432888	                  Tobamovirus rehmanniae
+0.06	30	30	S	3432877	                  Tobamovirus maculatessellati
+0.02	10	10	S	3432895	                  Tobamovirus viridimaculae
+0.02	11	0	O	675063	            Tymovirales
+0.02	11	0	F	675068	              Betaflexiviridae
+0.02	11	0	F1	1914297	                Quinvirinae
+0.02	11	0	G	12163	                  Carlavirus
+0.02	11	11	S	3427796	                    Carlavirus sigmasolani
+0.81	378	0	C	2732463	          Tolucaviricetes
+0.81	378	0	O	2732548	            Tolivirales
+0.81	378	0	F	39738	              Tombusviridae
+0.81	378	0	F1	2560077	                Procedovirinae
+0.68	316	0	G	12141	                  Tombusvirus
+0.21	98	98	S	3048256	                    Tombusvirus pelargonii
+0.09	44	44	S	3047788	                    Tombusvirus cymbidii
+0.09	41	41	S	3047844	                    Tombusvirus algeriaense
+0.09	41	41	S	3048374	                    Tombusvirus lycopersici
+0.09	40	40	S	3047727	                    Tombusvirus dianthi
+0.04	17	17	S	3048263	                    Tombusvirus petuniae
+0.04	17	17	S	3047380	                    Tombusvirus cynarae
+0.03	14	14	S	3048207	                    Tombusvirus moroccoense
+0.13	62	0	G	1911601	                  Gammacarmovirus
+0.13	62	62	S	3048200	                    Gammacarmovirus melonis
+0.04	17	0	P	2732407	        Lenarviricota
+0.04	17	0	C	2842243	          Leviviricetes
+0.04	17	0	O	2842247	            Norzivirales
+0.04	17	0	F	2842319	              Fiersviridae
+0.04	17	0	G	2842767	                Ishugivirus
+0.04	17	17	S	2845020	                  Ishugivirus pelohabitans
+0.19	88	0	R3	2585030	      unclassified Riboviria
+0.19	88	0	R4	1922348	        unclassified RNA viruses ShiM-2016
+0.13	62	62	S	1923144	          Hubei picorna-like virus 61
+0.03	16	16	S	1922624	          Beihai picorna-like virus 77
+0.02	10	10	S	1923094	          Hubei picorna-like virus 15
+31.20	14559	0	R2	2731342	    Monodnaviria
+31.20	14559	0	K	2732092	      Shotokuvirae
+30.92	14428	0	P	2732415	        Cossaviricota
+30.92	14428	0	C	2732422	          Quintoviricetes
+30.92	14428	0	O	2732534	            Piccovirales
+30.92	14428	0	F	10780	              Parvoviridae
+29.84	13922	0	F1	40119	                Parvovirinae
+17.80	8305	0	G	1507401	                  Bocaparvovirus
+11.21	5231	5231	S	3052027	                    Bocaparvovirus carnivoran2
+2.15	1001	1001	S	3052026	                    Bocaparvovirus carnivoran1
+1.32	615	615	S	3052040	                    Bocaparvovirus primate1
+1.15	536	536	S	3052041	                    Bocaparvovirus primate2
+0.84	390	390	S	3052049	                    Bocaparvovirus ungulate5
+0.67	312	312	S	3052048	                    Bocaparvovirus ungulate4
+0.17	78	78	S	3052029	                    Bocaparvovirus carnivoran4
+0.15	70	0	G1	1507402	                    unclassified Bocaparvovirus
+0.08	39	39	S	1133653	                      Porcine bocavirus 5
+0.07	31	31	S	1165907	                      Porcine bocavirus
+0.06	26	26	S	3052043	                    Bocaparvovirus rodent1
+0.06	26	26	S	3052046	                    Bocaparvovirus ungulate2
+0.04	16	16	S	3052047	                    Bocaparvovirus ungulate3
+11.84	5526	0	G	1506574	                  Protoparvovirus
+11.19	5219	5219	S	3052707	                    Protoparvovirus carnivoran1
+0.54	251	251	S	3052717	                    Protoparvovirus rodent1
+0.07	34	34	S	3052718	                    Protoparvovirus rodent2
+0.05	22	22	S	3052713	                    Protoparvovirus incertum1
+0.15	71	0	G	10803	                  Dependoparvovirus
+0.13	59	59	S	1511891	                    Dependoparvovirus primate1
+0.03	12	12	S	1511892	                    Dependoparvovirus mammalian1
+0.04	20	0	G	1511911	                  Tetraparvovirus
+0.04	20	20	S	3052772	                    Tetraparvovirus ungulate2
+0.80	375	0	F1	2732887	                Hamaparvovirinae
+0.80	375	0	G	2733231	                  Chaphamaparvovirus
+0.68	315	315	S	3052107	                    Chaphamaparvovirus galliform2
+0.13	60	60	S	3052115	                    Chaphamaparvovirus ungulate1
+0.26	120	0	F1	40120	                Densovirinae
+0.26	120	0	G	2733225	                  Hemiambidensovirus
+0.26	120	120	S	3052220	                    Hemiambidensovirus hemipteran2
+0.02	11	0	F1	535600	                unclassified Parvoviridae
+0.02	11	11	S	1399967	                  Pigeon parvovirus A
+0.28	131	0	P	2732416	        Cressdnaviricota
+0.28	131	0	C	2732424	          Repensiviricetes
+0.28	131	0	O	2732539	            Geplafuvirales
+0.28	131	0	F	1910928	              Genomoviridae
+0.23	108	0	F1	1941235	                unclassified Genomoviridae
+0.23	108	108	S	2202565	                  Genomoviridae sp.
+0.05	22	0	G	1542744	                Gemycircularvirus
+0.05	22	0	G1	1910929	                  unclassified Gemycircularvirus
+0.05	22	22	S	2016461	                    Giant panda associated gemycircularvirus
+2.70	1261	0	R2	2732004	    Varidnaviria
+2.70	1261	0	K	2732005	      Bamfordvirae
+2.70	1261	0	P	2732008	        Preplasmiviricota
+2.70	1261	0	P1	3412694	          Polisuviricotina
+2.70	1261	0	C	3412727	            Pharingeaviricetes
+2.70	1261	0	O	2732559	              Rowavirales
+2.70	1261	0	F	10508	                Adenoviridae
+2.39	1113	0	G	10509	                  Mastadenovirus
+0.93	434	434	S	3241426	                    Mastadenovirus faecale
+0.44	204	204	S	3241440	                    Mastadenovirus porcusquintum
+0.37	172	172	S	3241420	                    Mastadenovirus dominans
+0.20	94	94	S	3241402	                    Mastadenovirus adami
+0.11	52	52	S	3241429	                    Mastadenovirus longumcaudae
+0.11	49	49	S	3241417	                    Mastadenovirus cynocephali
+0.08	39	39	S	3241406	                    Mastadenovirus blackbeardi
+0.05	21	21	S	3241415	                    Mastadenovirus chlorocebi
+0.04	17	17	S	3241427	                    Mastadenovirus flavi
+0.03	15	15	S	3241443	                    Mastadenovirus rhesi
+0.03	13	13	S	3241404	                    Mastadenovirus alienum
+0.32	148	0	G	10552	                  Aviadenovirus
+0.30	138	138	S	3426530	                    Aviadenovirus hepatitidis
+0.02	10	10	S	3426525	                    Aviadenovirus gallinae
+0.68	315	0	R2	2731341	    Duplodnaviria
+0.68	315	0	K	2731360	      Heunggongvirae
+0.68	315	0	P	2731618	        Uroviricota
+0.68	315	0	C	2731619	          Caudoviricetes
+0.39	182	0	C1	3424297	            Caudoviricetes incertae sedis
+0.15	72	0	F	2943001	              Casjensviridae
+0.09	41	0	G	2943019	                Sharonstreetvirus
+0.05	22	22	S	2956442	                  Sharonstreetvirus LAh7
+0.04	19	19	S	2956440	                  Sharonstreetvirus A18P4
+0.04	18	0	G	2943016	                Salvovirus
+0.04	18	18	S	2560847	                  Salvovirus salvo
+0.03	13	0	G	2843478	                Yonseivirus
+0.03	13	13	S	2845108	                  Yonseivirus soft
+0.12	56	0	G	2843362	              Burrovirus
+0.07	33	33	S	2845591	                Burrovirus burro
+0.05	22	22	S	2845589	                Burrovirus araxxi
+0.06	27	0	G	2560130	              Farahnazvirus
+0.06	27	27	S	2560592	                Farahnazvirus ISF9
+0.03	16	0	G	2733167	              Armstrongvirus
+0.03	16	16	S	2734217	                Armstrongvirus armstrong
+0.02	11	0	G	3044838	              Syrbvirus
+0.02	11	11	S	3060725	                Syrbvirus R1
+0.17	77	0	O	1978007	            Crassvirales
+0.14	65	0	F	2942966	              Suoliviridae
+0.14	65	0	F1	2942975	                Oafivirinae
+0.14	65	0	G	2948645	                  Burzaovirus
+0.06	29	29	S	2955562	                    Burzaovirus intestinihominis
+0.04	20	20	S	2955561	                    Burzaovirus faecalis
+0.03	15	15	S	2955560	                    Burzaovirus coli
+0.03	12	0	F	2942964	              Intestiviridae
+0.03	12	0	F1	2942972	                Crudevirinae
+0.03	12	0	G	2948652	                  Carjivirus
+0.03	12	12	S	2955582	                    Carjivirus communis
+0.08	39	0	C1	2788787	            unclassified Caudoviricetes
+0.06	29	29	S	1188795	              Xanthomonas citri phage CP2
+0.02	10	10	S	1573458	              Pseudomonas phage PS-1
+0.04	17	0	O	3420540	            Autographivirales
+0.04	17	0	F	3424634	              Autonotataviridae
+0.04	17	0	F1	3424850	                Gujervirinae
+0.04	17	0	G	1985733	                  Pradovirus
+0.04	17	17	S	1985736	                    Pradovirus prado
+0.23	108	0	R2	12429	    unclassified viruses
+0.16	75	75	S	2021738	      Hudisavirus sp.
+0.07	33	33	S	1820160	      Human feces pecovirus
