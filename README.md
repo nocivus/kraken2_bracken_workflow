@@ -50,7 +50,7 @@ Both paired reads of a sample (..._1.fastq.gz & ..._2.fastq.gz) must be stored i
 
 **analyse_script.sh** has to be located in the .../\{src\} directory for the script to function.
 
-Then `./analyse_script.sh`
+Then `bash ./analyse_script.sh`
 
 ## Sample Reports
 
